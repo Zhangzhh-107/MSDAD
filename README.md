@@ -15,8 +15,14 @@ In this paper we present a multi-sensor dataset collected in real scenarios with
 
 ③ The real-time driving behavior of driver are also provided in our dataset, which is used to provide data for deep learning, reinforcement learning and other tasks.
 
-## 3.SEQUENCES
+![avatar](figures/1.png)
+## 3.SENSOR SYSTEM
+To provide diverse data for the autonomous vehicle localization system, our dataset incorporates a complicated sensor system. The Lidar is independently mounted on the platform of the vehicle to ensure no obstruction. The remaining sensors are positioned on the top of the windshield. Apart from these, RTK localization system is symmetrically placed at the rear of the vehicle.
 
-## 4.LICENSE
+## 4.SEQUENCES
 
-## 5.ACKNOWLEGEMENT
+## 5.LICENSE
+
+## 6.ACKNOWLEGEMENT
+
+## 7.FUTURE PLAN
